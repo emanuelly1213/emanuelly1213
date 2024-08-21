@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💙
+ 
+Meu nome é emanuelly
 
-<!--
-**emanuelly1213/emanuelly1213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Estou estudando na alura [Alura](https://www.alura.com.br)
+-Estou me desenvolve na linguagem JavaScript
+-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+### Você entrar em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+costa.santos.emanuelly@escola.pr.gov.br
+
+@emanuelly
+
+![](https://media1.tenor.com/m/ncFEMbgADNIAAAAC/ponyo-chicken-ponyo.gif)
